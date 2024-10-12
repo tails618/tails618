@@ -6,7 +6,7 @@ Hi! I'm a student studying computer science and astrophysics at the University o
 - I made a machine learning model to classify transient astronomical events as part of a program at Northwestern's Center for Interdisciplinary Exploration and Research in Astrophysics - check it out [here](https://github.com/tails618/ciera-reach-2022).
 - I was one of the creators of my high school's student council website, built using React.
 
-## some things I use
+## some tools I use
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,js,py,react,firebase,vim,vscode,latex,obsidian&perline=5)](https://skillicons.dev)
 
 ## 🐍 snake time 🐍
