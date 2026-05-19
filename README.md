@@ -1,5 +1,5 @@
 ## ✨ Hey! I'm Leah. ✨
-Hi! I'm a student studying astronomy at the University of British Columbia. (Before I came to UBC, I spent a year at the University of Chicago.) I don't write much code at the moment, so my GitHub profile is fairly inactive. You can find me on Bluesky [@leah.tgirl.gay](https://bsky.app/profile/leah.tgirl.gay).
+Hi! I'm a student studying astronomy at the University of British Columbia. (Before I came to UBC, I spent a year at the University of Chicago.) I don't write much code at the moment, so my GitHub profile is fairly inactive. You can find me on Bluesky [@leahg.org](https://bsky.app/profile/leahg.org).
 
 ## Some things I've done
 - I write *Move Fast, Break Things*, a column about technology and the politics surrounding it, for UBC's student newspaper: https://ubyssey.ca/opinion/move-fast-break-things/
